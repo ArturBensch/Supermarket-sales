@@ -1,6 +1,8 @@
 # Supermarket-sales
 ## Projeto de análise de dados utilizando python e google colab com dataset do Kangle
-
+ <p align="center">
+  <img alt="logo" width="40%" src="https://github.com/user-attachments/assets/a2d25976-31ed-4d83-a419-b679eb582dd0">
+</p>
 
 
 ## Objetivo do Estudo
@@ -25,22 +27,26 @@ The growth of supermarkets in most populated cities are increasing and market co
 ## Destaques do Projeto
   ### Valor Total de venda por Linha de Produto
 <p align="center">
-  
+  <p align="center">
+  <img alt="barra" width="70%" src="https://github.com/user-attachments/assets/0457e5b7-fa80-4ddd-baeb-a904a19c31fe">
+</p>
+
 </p>
 
 
  ### Densidade de venda por tipo cliente e hora do dia
 <p align="center">
-  
+  <p align="center">
+  <img alt="desidade" width="70%" src="https://github.com/user-attachments/assets/6783d284-e5b7-40e8-bc8d-a99a24270b30"> 
 </p>
 
-
 ### Gráfico Boxplot para Ver a Distribuição dos Ratings por Produto
-<p align="center">
 
+<p align="center">
+  <img alt="boxplot" width="70%" src="https://github.com/user-attachments/assets/3723f72e-e45b-46b2-8b0a-69706224ff3b"> 
 </p>
 
 ### Análise de Paretto, identificando os principais produtos (20%) que possuem o maior faturamento total (80%) 
 <p align="center">
-
+<img alt="paretto" width="70%" src="https://github.com/user-attachments/assets/200d17d5-02e5-4faa-890f-f749b72b1a10">
 <p/>
